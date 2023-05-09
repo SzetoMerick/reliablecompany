@@ -1,0 +1,75 @@
+/* .homepage_container {
+
+	display: grid;
+	grid-template-columns: 2fr 1fr 1fr;
+}
+
+.img_container {
+	max-height: 50vh;
+	min-height: 50vh;
+	max-width: 45vw;
+	min-width: 45vw;
+	margin: 0 auto;
+}
+
+.homepage_img {
+	animation: fadeIn 1s;
+	padding: 2rem;
+	height: 100%;
+	max-height: 100%;
+	width: 100%;
+	max-width: 100%;
+	border-radius: 5rem;
+}
+
+@keyframes fadeIn {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+li {
+	list-style-type: none;
+	padding: 1rem;
+}
+
+.image_button_container {
+
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+}
+
+.bball_button {
+	height: 5rem;
+	width: 20rem;
+	display: inline-block;
+}
+
+.toilet_button {
+	height: 5rem;
+	width: 20rem;
+	display: inline-block;
+}
+
+.gazebo_button {
+	height: 5rem;
+	width: 20rem;
+	display: inline-block;
+}
+
+.description_container {
+	background-color: gray;
+	right: 0;
+
+	border-radius: 2rem;
+}
+
+.description_title {
+	font-size: 2em;
+	text-align: center;
+	color: white;
+} */
