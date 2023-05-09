@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { FaFacebook, FaTwitter, FaInstagram, FaIoxhost } from "react-icons/fa";
+// import { FaFacebook, FaTwitter, FaInstagram, FaIoxhost } from "react-icons/fa";
 import "./Footer.css";
 
 const Footer = () => {
@@ -26,7 +26,7 @@ const Footer = () => {
 					<h3>Follow Us</h3>
 					<p>Stay up to date with our latest news and updates.</p>
 					<div className="social-media-links">
-						<a href="#">
+						{/* <a href="#">
 							<FaFacebook />
 						</a>
 						<a href="#">
@@ -34,7 +34,7 @@ const Footer = () => {
 						</a>
 						<a href="#">
 							<FaInstagram />
-						</a>
+						</a> */}
 					</div>
 				</div>
 			</div>
