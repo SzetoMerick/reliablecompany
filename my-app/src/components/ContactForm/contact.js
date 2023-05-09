@@ -1,9 +1,8 @@
-import "./contact.scss";
 import { useEffect, useState } from "react";
 import { useRef } from "react";
 import AnimatedLetters from "../AnimatedLetters";
 import emailjs from "@emailjs/browser";
-import { MapContainer, TileLayer, Marker } from "react-leaflet";
+// import { MapContainer, TileLayer, Marker } from "react-leaflet";
 
 /*
 ! Contact form is not displaying properly
